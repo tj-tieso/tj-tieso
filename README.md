@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey! I'm Trevor Tieso
+
+- Full stack web developer located in Kansas City. 
+
+- Checkout out my portfolio [here](https://tj-tieso.github.io/portfolio). 
+
+- Contact me: <tj.tieso@gmail.com>
 
 <!--
 **tj-tieso/tj-tieso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
